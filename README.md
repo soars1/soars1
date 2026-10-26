@@ -1,22 +1,13 @@
-<p align="right"><sub><a href="https://soars1.github.io">site</a> · <a href="https://www.linkedin.com/in/gabriel-soares-ferrari-lima-22b782405">linkedin</a></sub></p>
+<img align="right" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/384.gif" width="170" alt="Rayquaza shiny animado" />
 
 # Gabriel Soares
 
-Estudo Sistemas para Internet no IFTO e trabalho com desenvolvimento web. Gosto de mexer tanto na interface quanto no que acontece por trás dela.
+Sistemas para Internet no IFTO. Estudo e trabalho com desenvolvimento web, tanto front quanto back.
 
-No momento, estou aprendendo mais sobre Python, Django e JavaScript.
+`HTML` `CSS` `JavaScript` `Python` `Django` `PHP`
 
-<sub>HTML · CSS · JavaScript · Python · Django · PHP</sub>
+- [Meu site](https://soars1.github.io)
+- [Componente Joomla](https://github.com/soars1/componente-joomla)
+- [TechPoint — Bootstrap e Materialize](https://github.com/soars1/atividade-web)
 
-### Alguns projetos
-
-**[Portfólio](https://soars1.github.io)**  
-Meu site pessoal, feito com HTML e CSS. [Código](https://github.com/soars1/soars1.github.io).
-
-**[com_projetos](https://github.com/soars1/componente-joomla)**  
-Um componente para cadastrar e mostrar projetos no Joomla. Ainda em desenvolvimento.
-
-**[TechPoint](https://github.com/soars1/atividade-web)**  
-O mesmo site feito em Bootstrap e Materialize, para comparar os dois frameworks.
-
-<sub>Palmas, TO · [github.com/soars1](https://github.com/soars1)</sub>
+<br clear="right" />
