@@ -1,6 +1,6 @@
 # Gabriel Soares
 
-Estudante de Análise e Desenvolvimento de Sistemas no IFTO.
+Estudante de Sistemas Para Internet no IFTO.
 
 Atualmente trabalho com desenvolvimento web, explorando tanto front-end quanto back-end. Gosto de criar interfaces, desenvolver funcionalidades e entender como tudo se conecta em uma aplicação.
 
