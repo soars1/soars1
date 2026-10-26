@@ -9,3 +9,7 @@ Sistemas para Internet no IFTO. Estudo e trabalho com desenvolvimento web, tanto
 <a href="https://soars1.github.io"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-21262d?style=for-the-badge&logo=githubpages&logoColor=ffffff"></a>
 <a href="https://github.com/soars1/componente-joomla"><img alt="Joomla" src="https://img.shields.io/badge/Joomla-21262d?style=for-the-badge&logo=github&logoColor=ffffff"></a>
 <a href="https://github.com/soars1/atividade-web"><img alt="TechPoint" src="https://img.shields.io/badge/TechPoint-21262d?style=for-the-badge&logo=github&logoColor=ffffff"></a>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/778.gif" width="82" alt="Mimikyu shiny animado" />
+</p>
